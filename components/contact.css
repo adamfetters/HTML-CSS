@@ -1,3 +1,4 @@
-#Contact {
-
+.section__contact {
+  justify-content: space-between;
+ 
 }
