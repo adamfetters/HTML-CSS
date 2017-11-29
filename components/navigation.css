@@ -1,7 +1,6 @@
-
 .navbar {
-  background-color:#203541;
- 
+  background-color: #203541;
+
   position: fixed;
   width: 100%;
   top: 0px;
@@ -13,15 +12,17 @@
   justify-content: space-around;
   font-size: large;
   padding: 5px;
-   
+  list-style: none;
 }
 
- a {
+a {
   text-decoration: none;
- color: white;
- 
+  color: white;
 }
 
 a:hover {
-  color: #1A628E;
+  color: white;
+  text-decoration: underline;
 }
+
+
