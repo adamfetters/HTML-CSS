@@ -1,4 +1,8 @@
 .section__contact {
   justify-content: space-between;
- 
+  padding: 20px;
+}
+
+.section__contact i {
+  padding-bottom: 20px;
 }

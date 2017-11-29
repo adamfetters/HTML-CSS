@@ -1,6 +1,6 @@
 
 .navbar {
-  background-color:black;
+  background-color:#203541;
  
   position: fixed;
   width: 100%;
@@ -20,4 +20,8 @@
   text-decoration: none;
  color: white;
  
+}
+
+a:hover {
+  color: #1A628E;
 }

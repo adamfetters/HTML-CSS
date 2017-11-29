@@ -1,14 +1,14 @@
-@import "./components/navigation.css";
-@import "./components/divider.css";
-@import "./components/heading.css";
-@import "./components/section.css";
-@import "./components/about.css";
-@import "./components/projects.css";
-@import "./components/contact.css";
+@import './components/navigation.css';
+@import './components/divider.css';
+@import './components/heading.css';
+@import './components/section.css';
+@import './components/about.css';
+@import './components/projects.css';
+@import './components/contact.css';
+@import './components/footer.css';
 
 body {
-  background-color:gray;
-  background-image: url("./assets/images/laptop-coding-screen.jpg");
+  background-color: #62A3CB;
+  
 }
 
-/* Navigation elements */
